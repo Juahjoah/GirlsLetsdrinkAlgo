@@ -1,12 +1,14 @@
 # 🖥️ GirlsLetsdrinkAlgo
+
 Girls, Let's drink Algorithm
 
 ## 🤖 스터디 멤버
-<!--- 스택 뱃지 --> 
-<!--- 
+
+<!--- 스택 뱃지 -->
+<!---
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 --->
 <table>
  <tr>
@@ -22,7 +24,10 @@ Girls, Let's drink Algorithm
     <td align="center"><a href="https://github.com/chahyechahye"><b>chahyechahye</b></a></td>
   </tr>
   <tr> 
-    <td align="center"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></td>
+    <td align="center"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    </td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br/><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br/>
@@ -34,11 +39,13 @@ Girls, Let's drink Algorithm
 <br/>
 
 ## 📌 스터디 규칙
+
 - 1일 1알고리즘
-  
+
 <br/>
 
 ## 🔍 참여 방법
+
 1. 이 저장소를 `fork` 한다.
 2. 생성된 저장소에 `Github ID`로 폴더를 생성한다.
 3. 알고리즘 풀이 후 원본 저장소에 `PR`를 보낸다.
@@ -46,6 +53,7 @@ Girls, Let's drink Algorithm
 <br/>
 
 ## 📁 Repository 폴더 구조
+
 ```
 {Github ID}/{날짜}/{코드.java}
 ```
@@ -65,27 +73,26 @@ Girls, Let's drink Algorithm
 
 ### 플랫폼
 
-| 플랫폼    | 태그  |
-|:-------|:----|
-| 백준     | BOJ |
-| 프로그래머스 | PGS |
-| 삼성SW Expert Academy   | SEA |
-| 그외   | ETC |
+| 플랫폼                | 태그 |
+| :-------------------- | :--- |
+| 백준                  | BOJ  |
+| 프로그래머스          | PGS  |
+| 삼성SW Expert Academy | SEA  |
+| 그외                  | ETC  |
 
 ### 이모지 및 태그
 
 - 이모지는 선택에 따라 활용한다.
 
-| 이모지 | 태그       | 설명                      |
-|:----|:---------|:------------------------|
-| ✨   | feat     | 새로운 기능 추가               |
-| 🐛  | fix      | 버그 수정                   |
-| ♻️  | refactor | 코드 리팩토링                 |
-| ✏️  | comment  | 주석 추가(코드 변경 X) 혹은 오타 수정 |
-| 📝  | docs     | README와 같은 문서 수정        |
-| 🔀  | merge    | merge                   |
-| 🚚  | rename   | 파일, 폴더명 수정 혹은 이동        |
-
+| 이모지 | 태그     | 설명                                  |
+| :----- | :------- | :------------------------------------ |
+| ✨     | feat     | 새로운 기능 추가                      |
+| 🐛     | fix      | 버그 수정                             |
+| ♻️     | refactor | 코드 리팩토링                         |
+| ✏️     | comment  | 주석 추가(코드 변경 X) 혹은 오타 수정 |
+| 📝     | docs     | README와 같은 문서 수정               |
+| 🔀     | merge    | merge                                 |
+| 🚚     | rename   | 파일, 폴더명 수정 혹은 이동           |
 
 <br/>
 
@@ -100,17 +107,19 @@ Girls, Let's drink Algorithm
 <br/>
 
 ## ⚠️ (option)코드리뷰 규칙
+
 - PR에서 코드리뷰를 한다.
-- 전체 코드 흐름을 파악한 뒤, 이 분이 어떻게 풀었을까 이해를 한 후 
+- 전체 코드 흐름을 파악한 뒤, 이 분이 어떻게 풀었을까 이해를 한 후
 - 의견제시
-  -   잘했다고 생각하는 부분
-  -   이렇게 하면 더 좋을 것 같다고 생각하는 부분
-  -   왜 이렇게 풀었는지 궁금한 부분
-  -   또 다른 풀이 방식 제시
+  - 잘했다고 생각하는 부분
+  - 이렇게 하면 더 좋을 것 같다고 생각하는 부분
+  - 왜 이렇게 풀었는지 궁금한 부분
+  - 또 다른 풀이 방식 제시
 - 코드의 일부분에다 코드리뷰를 해도 되고 전체 코드 밑 or PR 하나 밑에다 코멘트 작성으로 리뷰를 해도 됩니다.
-<br/>
+  <br/>
 
 ---
+
 해당 README는 다음 레포지토리를 참고해서 제작하였습니다.
 
 - [Algorithm-Study](https://github.com/CodeSquad-2023-BE-Study/Algorithm-Study)
