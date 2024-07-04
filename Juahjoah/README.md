@@ -10,7 +10,9 @@
   - [x] 2024.07.01
     - [백준 1811번 - 단어 정렬](https://www.acmicpc.net/problem/1181)
   - [ ] 2024.07.02
-  - [ ] 2024.07.03
+  - [x] 2024.07.03
+    - [프로그래머스 - 중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)
+    - [백준 1018번 - 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
   - [ ] 2024.07.04
   - [ ] 2024.07.05
   - [ ] 2024.07.06
