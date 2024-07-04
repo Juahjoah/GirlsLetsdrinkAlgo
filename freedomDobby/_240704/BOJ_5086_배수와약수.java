@@ -17,6 +17,5 @@ public class Main {
             else if (a % b == 0) System.out.println("multiple");
             else System.out.println("neither");
         }
-
     }
 }
