@@ -20,4 +20,5 @@
 |2024.07.01(월)|[마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)|구현|
 |2024.07.02(화)|[도넛 행성](https://www.acmicpc.net/problem/27211)|그래프 이론, 그래프 탐색, 너비 우선 탐색|
 |2024.07.03(수)|[신기한 소수](https://www.acmicpc.net/problem/2023)|소수, 정수론, 백트래킹, 소수 판정|
-|2024.07.05(목)|[경비원](https://www.acmicpc.net/problem/2564)|구현, 많은 조건 분기|
+|2024.07.05(금)|[경비원](https://www.acmicpc.net/problem/2564)|구현, 많은 조건 분기|
+|2024.07.06(토)|[달이 차오른다, 가자](https://www.acmicpc.net/problem/1194)|그래프 이론, 그래프 탐색, 너비 우선 탐색, 비트마스킹|
