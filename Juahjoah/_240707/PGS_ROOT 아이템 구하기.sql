@@ -1,0 +1,9 @@
+-- JOIN을 이용해 ITEM_INFO와 ITEM_TREE 테이블을 조인하여 ROOT 아이템을 찾기
+-- ROOT 아이템은 PARENT_ITEM_ID가 NULL인 아이템
+
+SELECT A.ITEM_ID, ITEM_NAME        
+  FROM ITEM_INFO A INNER JOIN ITEM_TREE B ON A.ITEM_ID = B.ITEM_ID  -- ITEM_INFO와 ITEM_TREE 테이블을 조인
+  WHERE PARENT_ITEM_ID IS NULL                                      -- PARENT_ITEM_ID가 NULL인 아이템을 찾기
+  ORDER BY ITEM_ID; 
+
+
