@@ -31,3 +31,4 @@
 |2024.07.09(화)|- [전쟁-전투](https://www.acmicpc.net/problem/1303)</br> - [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951)</br> - [강의실 배정](https://www.acmicpc.net/problem/11000) |- 그래프 이론, 그래프 탐색, 깊이 우선 탐색, 너비 우선 탐색</br> - 누적합</br> - 자료 구조, 그리디 알고리즘, 정렬, 우선순위 큐|
 |2024.07.10(수)|[색종이 만들기](https://www.acmicpc.net/problem/2630)|분할정복, 재귀|
 |2024.07.11(목)|[2,147,483,648 게임](https://www.acmicpc.net/problem/23796)|구현|
+|2024.07.12(금)|[소수&팰린드롬](https://www.acmicpc.net/problem/1747)|수학, 브루트포스 알고리즘, 정수론, 소수 판정, 에라토스테네스의 체|
