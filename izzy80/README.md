@@ -32,3 +32,4 @@
 |2024.07.10(수)|[색종이 만들기](https://www.acmicpc.net/problem/2630)|분할정복, 재귀|
 |2024.07.11(목)|[2,147,483,648 게임](https://www.acmicpc.net/problem/23796)|구현|
 |2024.07.12(금)|[소수&팰린드롬](https://www.acmicpc.net/problem/1747)|수학, 브루트포스 알고리즘, 정수론, 소수 판정, 에라토스테네스의 체|
+|2024.07.13(토)|[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)|해시|
