@@ -38,3 +38,4 @@
 | 날짜(요일) | 문제     |유형|
 | :-------------------- | :--- |:--- |
 |2024.07.15(월)|[내리막길](https://www.acmicpc.net/problem/1520)|dp, 그래프 이론, 그래프 탐색, 깊이 우선 탐색|
+|2024.07.16(화)|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|완전탐색|
