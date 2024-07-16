@@ -30,6 +30,7 @@
   - [ ] 2024.07.15
   - [x] 2024.07.16
     - [프로그래머스 - 오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537)
+    - [백준 12865 - 평범한 배낭](https://www.acmicpc.net/problem/12865)
   - [ ] 2024.07.17
   - [ ] 2024.07.18
   - [ ] 2024.07.19
