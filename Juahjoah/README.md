@@ -32,7 +32,8 @@
     - [프로그래머스 - 오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537)
     - [백준 12865 - 평범한 배낭](https://www.acmicpc.net/problem/12865)
   - [ ] 2024.07.17
-  - [ ] 2024.07.18
+  - [x] 2024.07.18
+    - [프로그래머스 - 불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
   - [ ] 2024.07.19
 - 4주차: 2024.07.22 ~ 2024.07.28
 
