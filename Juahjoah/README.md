@@ -39,7 +39,8 @@
   - [ ] 2024.07.22
   - [x] 2024.07.23
     - [프로그래머스 - 불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
-  - [ ] 2024.07.24
+  - [X] 2024.07.24
+    - [프로그래머스 - 표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)
   - [ ] 2024.07.25
   - [ ] 2024.07.26
 
