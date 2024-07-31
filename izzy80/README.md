@@ -59,4 +59,5 @@
 ### 1주차
 | 날짜(요일) | 문제     |유형|
 | :-------------------- | :--- |:--- |
-|2024.07.30(월)|[비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) </br> [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|비트 </br> 자료구조|
+|2024.07.30(화)|[비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) </br> [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|비트 </br> 자료구조|
+|2024.07.31(수)|[주차요금계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) |문자열|
