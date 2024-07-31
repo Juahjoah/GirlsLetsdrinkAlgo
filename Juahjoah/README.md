@@ -54,7 +54,8 @@
   ### 5주차: 2024.07.29 ~ 2024.07.31
   - [x] 2024.07.29
     - [프로그래머스 - 3 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12902)
-  - [ ] 2024.07.30
+  - [x] 2024.07.30
+    - [프로그래머스 - 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)
   - [ ] 2024.07.31
 
 </details>
