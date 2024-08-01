@@ -56,7 +56,8 @@
     - [프로그래머스 - 3 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12902)
   - [x] 2024.07.30
     - [프로그래머스 - 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)
-  - [ ] 2024.07.31
+  - [x] 2024.07.31
+    - [백준 4991 - 로봇 청소기](https://www.acmicpc.net/problem/4991)
 
 </details>
 
