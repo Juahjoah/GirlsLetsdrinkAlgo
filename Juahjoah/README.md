@@ -4,6 +4,22 @@
 
 ## 📅 Schedule
 
+### 8월
+
+<details>
+  <summary>8월 진행 사항</summary>
+
+### 1주차: 2024.08.01 ~ 2024.08.04
+
+- [x] 2024.08.01
+  - [백준 4949번 - 균형잡힌 세상](https://www.acmicpc.net/problem/4949)
+- [x] 2024.08.02
+  - [백준 2178번 - 미로 탐색](https://www.acmicpc.net/problem/2178)
+- [ ] 2024.08.03
+- [ ] 2024.08.04
+
+</details>
+
 #### 7월
 
 <details>
