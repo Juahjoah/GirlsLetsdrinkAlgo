@@ -63,3 +63,4 @@
 |2024.07.31(수)|[주차요금계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) |문자열|
 |2024.08.01(목)|[프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) |구현|
 |2024.08.02(금)|[수들의 합2](https://www.acmicpc.net/problem/2003) |투포인터|
+|2024.08.04(일)|[특정 세대의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301650) |select|
