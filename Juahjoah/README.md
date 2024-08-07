@@ -23,7 +23,8 @@
   - [백준 7576번 - 토마토](https://www.acmicpc.net/problem/7576)
 - [x] 2024.08.06
   - [백준 4179번 - 불!](https://www.acmicpc.net/problem/4179)
-- [ ] 2024.08.07
+- [x] 2024.08.07
+  - [백준 1697번 - 숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [ ] 2024.08.08
 - [ ] 2024.08.09
 - [ ] 2024.08.10
