@@ -70,3 +70,4 @@
 | 날짜(요일) | 문제     |유형|
 | :-------------------- | :--- |:--- |
 |2024.08.15(목)|[가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712) </br> [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|구현 </br> 구현|
+|2024.08.18(일)|[5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117) </br> [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) </br> [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|JOIN </br> 구현 </br> 구현|
