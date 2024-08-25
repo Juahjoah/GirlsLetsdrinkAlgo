@@ -7,7 +7,7 @@
 - [x] 1주차: 2024.07.29 ~ 2024.08.04
 - [x] 2주차: 2024.08.05 ~ 2024.08.11
 - [x] 3주차: 2024.08.12 ~ 2024.08.18
-- [ ] 4주차: 2024.08.19 ~ 2024.08.25
+- [x] 4주차: 2024.08.19 ~ 2024.08.25
 
 ## 📚 Content
 ## 7월
@@ -71,3 +71,8 @@
 | :-------------------- | :--- |:--- |
 |2024.08.15(목)|[가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712) </br> [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|구현 </br> 구현|
 |2024.08.18(일)|[5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117) </br> [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) </br> [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|JOIN </br> 구현 </br> 구현|
+
+### 4주차
+| 날짜(요일) | 문제     |유형|
+| :-------------------- | :--- |:--- |
+|2024.08.25(일)|[택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) </br> [회전 초밥](https://www.acmicpc.net/problem/2531) </br> [암호코드](https://www.acmicpc.net/problem/2011) </br>[자동차 평균 대여 기간 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157342) </br> [조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671)|자료구조 </br> 슬라이딩윈도우 </br> DP </br> String,Date </br> String,Date|
