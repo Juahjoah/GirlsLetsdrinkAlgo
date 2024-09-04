@@ -1,3 +1,4 @@
+# 2022 KAKAO TECH INTERNSHIP
 # from solution import *
 
 def solution(survey, choices):
@@ -12,6 +13,7 @@ def solution(survey, choices):
         "A": 0, "N": 0,
     }
 
+    # 각 선택지에 대해 점수를 부여
     for i in range(len(choices)):
         if choices[i] <= 4:
             mbti_type[survey[i][0]] += 4 - choices[i]
@@ -29,3 +31,4 @@ def solution(survey, choices):
             answer += R
     
     return answer
+
