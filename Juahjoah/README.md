@@ -9,15 +9,15 @@
 <details>
   <summary> 9월 진행 사항 </summary>
 
-  ### 1주차 2024.09.01 ~ 2024.09.08
+### 1주차 2024.09.01 ~ 2024.09.08
 
-  - [ ] 2024.09.02
-  - [ ] 2024.09.03
-  - [x] 2024.09.04
-    - [백준 11060번 - 점프 점프](https://www.acmicpc.net/problem/11060)
-    - [백준 21736번 - 헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736)
-  - [ ] 2024.09.05
-  - [ ] 2024.09.06
+- [ ] 2024.09.02
+- [ ] 2024.09.03
+- [x] 2024.09.04
+  - [백준 11060번 - 점프 점프](https://www.acmicpc.net/problem/11060)
+  - [백준 21736번 - 헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736)
+- [ ] 2024.09.05
+- [ ] 2024.09.06
 
 </details>
 
@@ -67,63 +67,67 @@
 - [x] 2024.08.30
   - [백준 14940번 - 쉬운 최단거리](https://www.acmicpc.net/problem/14940)
 
-
 </details>
 
 #### 7월
 
 <details>
-  <summary>7월 진행 사항</summary>
-  
-  ### 1주차: 2024.07.01 ~ 2024.07.07
-  - [x] 2024.07.01
-    - [백준 1811번 - 단어 정렬](https://www.acmicpc.net/problem/1181)
-  - [ ] 2024.07.02
-  - [x] 2024.07.03
-    - [프로그래머스 - 중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)
-    - [백준 1018번 - 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
-  - [ ] 2024.07.04
-  - [ ] 2024.07.05
-  - [ ] 2024.07.06
-  - [x] 2024.07.07
-    - [백준 1260번 - DFS와 BFS](https://www.acmicpc.net/problem/1260)
-    - [프로그래머스 - ROOT 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273710)
-  
-  ### 2주차: 2024.07.08 ~ 2024.07.14
-  - [ ] 2024.07.08
-  - [x] 2024.07.09
-    - [백준 7562번 - 나이트의 이동](https://www.acmicpc.net/problem/7562)
-  - [ ] 2024.07.10
-  - [ ] 2024.07.11
-  - [ ] 2024.07.12
-  
-  ### 3주차: 2024.07.15 ~ 2024.07.21
-  - [ ] 2024.07.15
-  - [x] 2024.07.16
-    - [프로그래머스 - 오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537)
-    - [백준 12865 - 평범한 배낭](https://www.acmicpc.net/problem/12865)
-  - [ ] 2024.07.17
-  - [x] 2024.07.18
-    - [프로그래머스 - 불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
-  - [ ] 2024.07.19
-  
-  ### 4주차: 2024.07.22 ~ 2024.07.28
-  - [ ] 2024.07.22
-  - [x] 2024.07.23
-    - [프로그래머스 - 불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
-  - [x] 2024.07.24
-    - [프로그래머스 - 표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)
-  - [x] 2024.07.25
-    - [프로그래머스 - 표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)
-  - [ ] 2024.07.26
-  
-  ### 5주차: 2024.07.29 ~ 2024.07.31
-  - [x] 2024.07.29
-    - [프로그래머스 - 3 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12902)
-  - [x] 2024.07.30
-    - [프로그래머스 - 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)
-  - [x] 2024.07.31
-    - [백준 4991 - 로봇 청소기](https://www.acmicpc.net/problem/4991)
+<summary>7월 진행 사항</summary>
+
+### 1주차: 2024.07.01 ~ 2024.07.07
+
+- [x] 2024.07.01
+  - [백준 1811번 - 단어 정렬](https://www.acmicpc.net/problem/1181)
+- [ ] 2024.07.02
+- [x] 2024.07.03
+  - [프로그래머스 - 중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)
+  - [백준 1018번 - 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
+- [ ] 2024.07.04
+- [ ] 2024.07.05
+- [ ] 2024.07.06
+- [x] 2024.07.07
+  - [백준 1260번 - DFS와 BFS](https://www.acmicpc.net/problem/1260)
+  - [프로그래머스 - ROOT 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273710)
+
+### 2주차: 2024.07.08 ~ 2024.07.14
+
+- [ ] 2024.07.08
+- [x] 2024.07.09
+  - [백준 7562번 - 나이트의 이동](https://www.acmicpc.net/problem/7562)
+- [ ] 2024.07.10
+- [ ] 2024.07.11
+- [ ] 2024.07.12
+
+### 3주차: 2024.07.15 ~ 2024.07.21
+
+- [ ] 2024.07.15
+- [x] 2024.07.16
+  - [프로그래머스 - 오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537)
+  - [백준 12865 - 평범한 배낭](https://www.acmicpc.net/problem/12865)
+- [ ] 2024.07.17
+- [x] 2024.07.18
+  - [프로그래머스 - 불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
+- [ ] 2024.07.19
+
+### 4주차: 2024.07.22 ~ 2024.07.28
+
+- [ ] 2024.07.22
+- [x] 2024.07.23
+  - [프로그래머스 - 불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
+- [x] 2024.07.24
+  - [프로그래머스 - 표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)
+- [x] 2024.07.25
+  - [프로그래머스 - 표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)
+- [ ] 2024.07.26
+
+### 5주차: 2024.07.29 ~ 2024.07.31
+
+- [x] 2024.07.29
+  - [프로그래머스 - 3 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12902)
+- [x] 2024.07.30
+  - [프로그래머스 - 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)
+- [x] 2024.07.31
+  - [백준 4991 - 로봇 청소기](https://www.acmicpc.net/problem/4991)
 
 </details>
 
