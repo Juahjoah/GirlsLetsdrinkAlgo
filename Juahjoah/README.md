@@ -4,7 +4,24 @@
 
 ## 📅 Schedule
 
-### 8월
+### 9월
+
+<details>
+  <summary> 9월 진행 사항 </summary>
+
+  ### 1주차 2024.09.01 ~ 2024.09.08
+
+  - [ ] 2024.09.02
+  - [ ] 2024.09.03
+  - [x] 2024.09.04
+    - [백준 11060번 - 점프 점프](https://www.acmicpc.net/problem/11060)
+    - [백준 21736번 - 헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736)
+  - [ ] 2024.09.05
+  - [ ] 2024.09.06
+
+</details>
+
+#### 8월
 
 <details>
   <summary>8월 진행 사항</summary>
