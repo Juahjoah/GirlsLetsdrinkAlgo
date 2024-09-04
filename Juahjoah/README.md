@@ -16,6 +16,7 @@
 - [x] 2024.09.04
   - [백준 11060번 - 점프 점프](https://www.acmicpc.net/problem/11060)
   - [백준 21736번 - 헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736)
+  - [프로그래머스 118666번 - 성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
 - [ ] 2024.09.05
 - [ ] 2024.09.06
 
