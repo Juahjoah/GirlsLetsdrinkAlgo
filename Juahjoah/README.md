@@ -21,6 +21,8 @@
   - [프로그래머스 299305번 - 대장균들의 자식의 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299305)
 - [x] 2024.09.06
   - [백준 11559번 - Puyo Puyo](https://www.acmicpc.net/problem/11559)
+- [x] 2024.09.07
+  - [프로그래머스 301646번 - 특정 형질을 가지는 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301646)
 
 </details>
 
