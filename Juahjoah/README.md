@@ -21,6 +21,15 @@
   - [프로그래머스 299305번 - 대장균들의 자식의 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299305)
 - [ ] 2024.09.06
 
+### 2주차 2024.09.09 ~ 2024.09.15
+
+- [ ] 2024.09.09
+- [ ] 2024.09.10
+- [x] 2024.09.11
+  - [프로그래머스 59042번 - 없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042)
+
+
+
 </details>
 
 #### 8월
