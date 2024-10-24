@@ -39,9 +39,10 @@
   - [백준 2667번 - 단지번호붙이기](https://www.acmicpc.net/problem/2667)
 - [x] 2024.10.22
   - [백준 14716번 - 현수막](https://www.acmicpc.net/problem/14716)
-- [ ] 2024.10.23
-  - [백준 10026번 - 적록색약](https://www.acmicpc.net/problem/10026) 
-- [ ] 2024.10.24
+- [x] 2024.10.23
+  - [백준 10026번 - 적록색약](https://www.acmicpc.net/problem/10026)
+- [x] 2024.10.24
+  - [백준 7576번 - 토마토](https://www.acmicpc.net/problem/7576)
 - [ ] 2024.10.25
 - [ ] 2024.10.26
 - [ ] 2024.10.27
