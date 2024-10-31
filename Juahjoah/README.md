@@ -55,7 +55,8 @@
   - [프로그래머스 1844번 - 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
 - [x] 2024.10.30
   - [백준 14501번 - 퇴사](https://www.acmicpc.net/problem/14501)
-- [ ] 2024.10.31
+- [x] 2024.10.31
+  - [백준 16928번 - 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
 
 </details>
 
