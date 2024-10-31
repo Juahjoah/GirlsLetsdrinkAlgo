@@ -57,6 +57,7 @@
   - [백준 14501번 - 퇴사](https://www.acmicpc.net/problem/14501)
 - [x] 2024.10.31
   - [백준 16928번 - 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
+  - [백준 2343번 - 기타레슨](https://www.acmicpc.net/problem/2343)
 
 </details>
 
