@@ -9,7 +9,12 @@
 <details>
   <summary> 11월 진행 사항 </summary>
 
+### 1주차 2024.11.01 ~ 2024.11.03
 
+- [x] 2024.11.01
+  - [백준 9663번 - N-Queen](https://www.acmicpc.net/problem/9663)
+- [ ] 2024.11.02
+- [ ] 2024.11.03
 
 </details>
 
