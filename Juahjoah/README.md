@@ -4,7 +4,16 @@
 
 ## 📅 Schedule
 
-### 10월
+### 11월
+
+<details>
+  <summary> 11월 진행 사항 </summary>
+
+
+
+</details>
+
+#### 10월
 
 <details>
   <summary> 10월 진행 사항 </summary>
