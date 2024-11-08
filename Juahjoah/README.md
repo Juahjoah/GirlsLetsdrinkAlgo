@@ -23,7 +23,8 @@
 - [ ] 2024.11.06
 - [x] 2024.11.07
   - [백준 16953번 - A→B](https://www.acmicpc.net/problem/16953)
-- [ ] 2024.11.08
+- [x] 2024.11.08
+  - [프로그래머스 87694번](https://school.programmers.co.kr/learn/courses/30/lessons/87694)
 - [ ] 2024.11.09
 - [ ] 2024.11.10
 
