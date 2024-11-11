@@ -24,9 +24,20 @@
 - [x] 2024.11.07
   - [백준 16953번 - A→B](https://www.acmicpc.net/problem/16953)
 - [x] 2024.11.08
-  - [프로그래머스 87694번](https://school.programmers.co.kr/learn/courses/30/lessons/87694)
+  - [프로그래머스 87694번 - 아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)
 - [ ] 2024.11.09
 - [ ] 2024.11.10
+
+### 3주차 2024.11.11 ~ 2024.11.17
+
+- [x] 2024.11.11
+  - [프로그래머스 132202번 - 진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202)
+- [ ] 2024.11.12
+- [ ] 2024.11.13
+- [ ] 2024.11.14
+- [ ] 2024.11.15
+- [ ] 2024.11.16
+- [ ] 2024.11.17
 
 </details>
 
